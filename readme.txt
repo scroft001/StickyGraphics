@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Bell
-Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-Author: BootstrapMade.com
+Theme Name: Gp
+Theme URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-templat/
+Author: BootstrapMade
 Author URL: https://bootstrapmade.com

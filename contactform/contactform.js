@@ -4,6 +4,7 @@ jQuery(document).ready(function($) {
 
     //Contact
     $('form.contactForm').submit(function(){
+
         var f = $(this).find('.form-group'), 
         ferror = false, 
         emailExp = /^[^\s()<>@,;:\/]+@\w[\w\.-]+\.[a-z]{2,}$/i;
@@ -86,7 +87,6 @@ jQuery(document).ready(function($) {
                     if(msg == 'OK') {
                         $("#sendmessage").addClass("show");			
                         $("#errormessage").removeClass("show");	
-                        $('.contactForm').find("input, textarea").val("");
                     }
                     else {
                         $("#sendmessage").removeClass("show");
